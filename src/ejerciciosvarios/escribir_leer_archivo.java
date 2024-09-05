@@ -1,3 +1,5 @@
+package ejerciciosvarios;
+
 import java.io.*;
 
 public class escribir_leer_archivo { // Como crear y Leer un Archivo de Texto.

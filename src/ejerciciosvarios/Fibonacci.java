@@ -1,3 +1,5 @@
+package ejerciciosvarios;
+
 import javax.swing.JOptionPane;
 
 public class Fibonacci {
